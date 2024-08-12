@@ -1,4 +1,54 @@
-# Landing page
+# Landing Page
+A simple landing page built as part of The Odin Project's Foundations course.
 
-Simple landing page created using only HTML and CSS. Use this project to get familiar with Flexbox.
+
+## Features
+
+- A clean and responsive design
+- A hero section with a background image and call-to-action button
+- A features section with icons and brief descriptions
+- A testimonials section with quotes and images
+- A call-to-action section with a button and background image
+
+
+## Demo
+
+[**Live Demo**](https://felixtanhm.github.io/my-odin-projects/foundations/02-landing-page/) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-landing-page) 
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox for layout
+- Media queries for responsiveness
+
+
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/your-github-username/landing-page.git`
+2. Open the project in your favorite code editor
+3. Make changes to the HTML and CSS files as desired
+4. Open the `index.html` file in a web browser to view the page
+
+
+## License
+
+This project is licensed under the MIT License. See [`LICENSE`](https://choosealicense.com/licenses/mit/)  for details.
+
+
+## Acknowledgments
+
+- The Odin Project for providing the curriculum and resources
+- Unsplash for providing the background images
+
+
+## Authors
+
+- [@radix-ratio](https://www.github.com/radix-ratio)
 
