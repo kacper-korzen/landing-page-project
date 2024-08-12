@@ -1,3 +1,13 @@
+:root {
+    --clr-primary-200:#f9faf8;
+    --clr-primary-300:#e5e7eb;
+    --clr-primary-700:#1f2937;
+
+    --clr-accent-500:#3882f6;
+    
+    --ff-base: 'Roboto', sans-serif;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -15,6 +25,6 @@ img, picture, video, canvas, svg {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: var(--ff-base);
     height: 100vh;
 }
