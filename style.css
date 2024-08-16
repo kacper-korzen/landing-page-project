@@ -39,6 +39,7 @@ body {
     height: 100vh;
 }
 
+
 /* header */
 .header { 
     background-color: var(--clr-primary-700);
@@ -59,12 +60,14 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     gap: 1rem;
     min-width: 80vw;  
 }
 
 .header-links {
     display: flex;
+    flex-wrap: wrap;
     gap: 1rem;
 }
 
@@ -113,5 +116,5 @@ body {
 }
 
 .hero > img {
-    width: 350px;
+    height: 200px;
 }
