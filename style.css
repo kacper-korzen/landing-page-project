@@ -65,6 +65,7 @@ body {
     min-width: 80vw;  
 }
 
+
 .header-links {
     display: flex;
     flex-wrap: wrap;
@@ -75,7 +76,16 @@ body {
     --fs:1.5rem;
     font-size: var(--fs);
     font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem
     
+}
+
+.logo > img {
+    width: 2rem;
+    height: 2rem;
 }
 
 /* hero */
