@@ -109,7 +109,7 @@ body {
 }
 
 .hero > .info h1 {
-    font-size: 3rem;
+    font-size: min(20vw, 3rem);
     font-weight:900;
     
 }
