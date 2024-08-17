@@ -13,12 +13,12 @@ A simple landing page built as part of The Odin Project's Foundations course.
 
 ## Demo
 
-[**Live Demo**](https://felixtanhm.github.io/my-odin-projects/foundations/02-landing-page/) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-landing-page) 
+[**Live Demo**](https://radix-ratio.github.io/landing-page-project/) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-landing-page) 
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](img/app-screen.png)
 
 
 ## Technologies Used
@@ -26,7 +26,6 @@ A simple landing page built as part of The Odin Project's Foundations course.
 - HTML5
 - CSS3
 - Flexbox for layout
-- Media queries for responsiveness
 
 
 ## Getting Started
@@ -46,6 +45,7 @@ This project is licensed under the MIT License. See [`LICENSE`](https://chooseal
 
 - The Odin Project for providing the curriculum and resources
 - Unsplash for providing the background images
+- Flaticon for providing the icon images
 
 
 ## Authors
