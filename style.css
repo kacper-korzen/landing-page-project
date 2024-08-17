@@ -215,3 +215,13 @@ body {
     border-radius: 0.5rem;
     
 }
+
+.button-inverse {
+    background-color: var(--clr-accent-500);
+    color: var(--clr-primary-200);
+    border: 2px solid var(--clr-primary-200);
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    width: fit-content;
+    font-size: 1.125rem;
+}
