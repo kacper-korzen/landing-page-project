@@ -8,7 +8,7 @@ A simple landing page built as part of The Odin Project's Foundations course.
 - A hero section with a background image and call-to-action button
 - A features section with icons and brief descriptions
 - A testimonials section with quotes and images
-- A call-to-action section with a button and background image
+- A call-to-action section with a button 
 
 
 ## Demo
