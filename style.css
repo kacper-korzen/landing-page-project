@@ -179,7 +179,7 @@ body {
 .quote {
     background-color: var(--clr-primary-300);
     color: var(--clr-primary-700);
-    padding: 10rem ;
+    padding: min(20vw, 10rem);
     text-wrap:balance;
     
 }
