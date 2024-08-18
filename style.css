@@ -94,24 +94,25 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    align-content: center;
     flex-wrap: wrap-reverse;
     gap: 4rem;
-    max-width: 80vw;
-    padding: 5rem 0;
+    padding-block: min(5rem, 10vw);
+    margin: 0 2rem;
 }
 
 .info {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    width: 40vw;
+    flex-grow: 2;
+    width: clamp(300px, 30vw, 70vw);
     text-wrap: pretty;
 }
 
 .hero > .info h1 {
-    font-size: min(20vw, 3rem);
+    font-size: min(12vw, 3rem);
     font-weight:900;
-    
 }
 
 .hero > .info p {
@@ -119,7 +120,7 @@ body {
     font-weight: 300;
 }
 
-.hero >.info button {
+.hero > .info button {
     background-color: var(--clr-accent-500);
     color: var(--clr-primary-200);
     border: none;
@@ -129,7 +130,7 @@ body {
 }
 
 .hero > img {
-    max-height: 20vh;
+    width: min(400px, 60vw);
 }
 
 /* main */
