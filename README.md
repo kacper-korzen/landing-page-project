@@ -13,7 +13,7 @@ A simple landing page built as part of The Odin Project's Foundations course.
 
 ## Demo
 
-[**Live Demo**](https://radix-ratio.github.io/landing-page-project/) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-landing-page) 
+[**Live Demo**](https://kacper-korzen.github.io/landing-page-project/) | [**Project Specs**](https://www.theodinproject.com/lessons/foundations-landing-page) 
 
 
 ## Screenshots
@@ -50,5 +50,5 @@ This project is licensed under the MIT License. See [`LICENSE`](https://chooseal
 
 ## Authors
 
-- [@radix-ratio](https://www.github.com/radix-ratio)
+- [@Kacper K](https://www.github.com/kacper-korzen)
 
